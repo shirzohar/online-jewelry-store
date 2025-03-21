@@ -26,7 +26,7 @@ Clone this repository and open `index.html`:
 git clone https://github.com/shirzohar/online-jewelry-store.git
 cd online-jewelry-store
 open index.html
-
+```
 ## 📷 Screenshots
 
 ![Home Page](ScreenShot2.jpeg)
